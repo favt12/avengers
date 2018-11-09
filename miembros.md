@@ -1,4 +1,5 @@
 # Miembros
+* Gohan
 * Goku
 * Capitan america
 * Black panther
