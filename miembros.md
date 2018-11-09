@@ -1,4 +1,5 @@
 # Miembros
+* picoro
 * Gohan
 * Goku
 * Capitan america
